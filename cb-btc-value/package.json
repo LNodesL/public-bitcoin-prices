@@ -1,0 +1,22 @@
+{
+  "name": "cb-btc-value",
+  "version": "1.0.0",
+  "description": "Finds the current value of Bitcoin on Coinbase, in realtime.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "nodes-get-bitcoin": "^1.0.0"
+  },
+  "keywords": [
+    "bitcoin",
+    "btc",
+    "coinbase",
+    "price",
+    "nodes"
+  ],
+  "author": "",
+  "license": "ISC"
+}

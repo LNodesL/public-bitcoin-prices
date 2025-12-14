@@ -1,0 +1,22 @@
+{
+  "name": "cryptocompare-btc-price",
+  "version": "1.0.1",
+  "description": "Finds the current value of Bitcoin on CryptoCompare, in realtime.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "nodes-get-bitcoin": "^1.0.0"
+  },
+  "keywords": [
+    "bitcoin",
+    "btc",
+    "cryptocompare",
+    "price",
+    "nodes"
+  ],
+  "author": "",
+  "license": "ISC"
+}

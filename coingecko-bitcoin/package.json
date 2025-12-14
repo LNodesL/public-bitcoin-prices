@@ -1,0 +1,22 @@
+{
+  "name": "coingecko-bitcoin",
+  "version": "1.0.1",
+  "description": "Finds the current value of Bitcoin on CoinGecko, in realtime.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "nodes-get-bitcoin": "^1.0.0"
+  },
+  "keywords": [
+    "bitcoin",
+    "btc",
+    "coingecko",
+    "price",
+    "nodes"
+  ],
+  "author": "",
+  "license": "ISC"
+}
