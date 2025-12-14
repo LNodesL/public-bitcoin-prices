@@ -1,6 +1,6 @@
 {
   "name": "nodes-get-bitcoin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetches and runs get-btc.js script using nodes-url-runtime",
   "type": "module",
   "main": "index.js",
